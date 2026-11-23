@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SocialSentiment",
+    "\\SocialSentiment\\bin",
+    "\\SocialSentiment\\Data",
+    "\\SocialSentiment\\Models",
+    "\\SocialSentiment\\Services"
+  ],
+  "SelectedNode": "\\SocialSentiment\\Services\\LexiconSentimentAnalyzer.cs",
+  "PreviewInSolutionExplorer": false
+}
